@@ -88,7 +88,7 @@ Editor.defaultConfig = {
     feeds: [
       {
         marker: "@",
-        feed: ["@Barney", "@Lily", "@Marry Ann", "@Marshall", "@Robin", "@Ted"],
+        feed: ["@{companyName}", "@{candidateName}", "@{personalMessage}"],
         minimumCharacters: 1,
       },
     ],
