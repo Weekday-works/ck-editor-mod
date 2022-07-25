@@ -84,15 +84,6 @@ Editor.defaultConfig = {
   table: {
     contentToolbar: ["tableColumn", "tableRow", "mergeTableCells"],
   },
-  mention: {
-    feeds: [
-      {
-        marker: "@",
-        feed: ["@{companyName}", "@{candidateName}", "@{personalMessage}"],
-        minimumCharacters: 1,
-      },
-    ],
-  },
 };
 
 export default Editor;
