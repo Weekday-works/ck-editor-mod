@@ -30,7 +30,7 @@
     "@ckeditor/ckeditor5-theme-lark": "^34.2.0",
     "@ckeditor/ckeditor5-typing": "^34.2.0",
     "css-loader": "^5.2.7",
-    "postcss": "^8.4.14",
+    "postcss": "^8.5.26",
     "postcss-loader": "^4.3.0",
     "raw-loader": "^4.0.2",
     "style-loader": "^2.0.0",
